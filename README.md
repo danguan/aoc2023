@@ -1,5 +1,5 @@
-# aoc2022
-Code snippets for Advent of Code 2022
+# aoc2023
+Code snippets for Advent of Code 2023
 
 ## Usage
 All solutions should be runnable using built-in Python3 libraries only.
